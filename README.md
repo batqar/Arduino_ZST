@@ -1,2 +1,10 @@
 # Arduino_ZST
-Dzień Nowych Technologii w Edukacji. To inicjatywa Ministerstwa Edukacji i Nauki, której celem jest popularyzowanie technologii informacyjno-komunikacyjnych wykorzystywanych w pracy z uczniami w szkole i poza nią. 
+ 👋 Cześć, jestem @batqar
+
+ 👀 Interesuje mnie mechatronika
+
+ 🌱 Obecnie się uczę języka python
+
+ 💞️ Chcę współpracować przy projektach Arduino
+
+ 📫 Jak do mnie dotrzeć: na https://www.facebook.com/zstkolbuszowa
